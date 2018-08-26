@@ -80,7 +80,6 @@ def catch(token):
 
 
 if __name__=='__main__':
-	username="XXXXXXXX"
 	username="16000XXXX"
 	password="XXXXXXX"
 	username=input("输入学号：")
