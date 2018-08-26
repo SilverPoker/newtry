@@ -80,7 +80,11 @@ def catch(token):
 
 
 if __name__=='__main__':
+<<<<<<< HEAD
 	username="16000XXXX"
+=======
+	username="XXXXXXXX"
+>>>>>>> parent of 3abe203... sss
 	password="XXXXXXX"
 	username=input("输入学号：")
 	password=input("输入密码：")
